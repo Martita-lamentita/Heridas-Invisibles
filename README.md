@@ -1,5 +1,6 @@
 # Heridas-Invisibles
 ¿Qué es el Bullyng?
+
 El bullying o acoso escolar es un comportamiento agresivo y no deseado entre niños en edad escolar que implica un desequilibrio de poder real o percibido. El comportamiento se repite o tiende a repetirse con el tiempo.
 
 Para ser considerado bullying, el comportamiento debe ser agresivo e incluir:
